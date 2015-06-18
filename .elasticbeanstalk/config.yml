@@ -1,0 +1,10 @@
+branch-defaults:
+  default:
+    environment: FrontEnd19052015-dev
+global:
+  application_name: FrontEnd19052015
+  default_ec2_keyname: newkey
+  default_platform: Python 2.7
+  default_region: us-west-2
+  profile: eb-cli
+  sc: null
